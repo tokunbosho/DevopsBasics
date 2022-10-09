@@ -1,3 +1,4 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h1 WELCOME TO theITern.com ></h1>
+<h2> This course will teach you  devops Tools from Scratch</h2>
+<h2> Good Luck as we progress in the journey of making you DevOps Engineer </h2>
+
